@@ -49,7 +49,7 @@
         </div>
     </div>
 </body>
-          <div style="background-color: #BA81806A; padding: 10px;">
+          <div style="background-color: #81806A; padding: 10px;">
        <p style="text-align:center;text-decorating: none; color: white; padding: 0 10px;">🔰 Acc chính chủ 🔰</p>
           </div>
        <p style="text-align:center;text-decorating: none; color: white; padding: 0 10px;">🍚👕🌾💵</p>
